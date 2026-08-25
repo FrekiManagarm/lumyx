@@ -1,0 +1,20 @@
+# Rust
+target/
+*.rs.bk
+
+# Node
+node_modules/
+.next/
+dist/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Private — jamais pushé
+apps/cloud/

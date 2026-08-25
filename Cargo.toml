@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "apps/sfu",
+]
+resolver = "2"
